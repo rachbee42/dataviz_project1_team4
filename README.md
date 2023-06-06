@@ -2,7 +2,7 @@
 
 Team members:
 
-- Jody-Ann Frazer \nd
-- Rachel Brimble \nd
-- Shabana Qureshi \nd
-- Ugochi Prince Ajuobi \nd
+- Jody-Ann Frazer
+- Rachel Brimble
+- Shabana Qureshi
+- Ugochi Prince Ajuobi
