@@ -1,0 +1,44 @@
+Country code,Country,Ethnic group,Live births,Stillbirths,Neonatal deaths,Infant deaths,Stillbirth rate,Stillbirth unreliable indicator ,Neonatal mortality rate,Neonatal unreliable indicator ,Infant mortality rate,Infant unreliable indicator
+"K04000001, J99000001",England and Wales,All,"624,162","2,579","1,715","2,323",4.1,,2.7,,3.7,
+"K04000001, J99000001",England and Wales,Bangladeshi,"10,158",39,31,45,3.8,,3.1,,4.4,
+"K04000001, J99000001",England and Wales,Indian,"22,896",116,70,92,5.0,,3.1,,4.0,
+"K04000001, J99000001",England and Wales,Pakistani,"26,950",159,115,175,5.9,,4.3,,6.5,
+"K04000001, J99000001",England and Wales,Any other Asian background,"15,919",68,41,54,4.3,,2.6,,3.4,
+"K04000001, J99000001",England and Wales,Black African,"20,983",148,103,146,7.0,,4.9,,7.0,
+"K04000001, J99000001",England and Wales,Black Caribbean,"5,079",34,17,25,6.6,,3.3,[u],4.9,
+"K04000001, J99000001",England and Wales,Any other Black background,"3,804",26,19,26,6.8,,5.0,[u],6.8,
+"K04000001, J99000001",England and Wales,Mixed/ multiple,"42,928",188,104,146,4.4,,2.4,,3.4,
+"K04000001, J99000001",England and Wales,Any Other ethnic group,"14,161",64,32,47,4.5,,2.3,,3.3,
+"K04000001, J99000001",England and Wales,White British,"367,375","1,292",790,"1,087",3.5,,2.2,,3.0,
+"K04000001, J99000001",England and Wales,White Other,"72,945",296,169,213,4.0,,2.3,,2.9,
+"K04000001, J99000001",England and Wales,Not Stated,"20,964",149,132,161,7.1,,6.3,,7.7,
+"K04000001, J99000001",England and Wales,Unlinked deaths,[z],[z],92,106,[z],,[z],,[z],
+E92000001,England ,All,"595,300","2,434","1,633","2,209",4.1,,2.7,,3.7,
+E92000001,England ,Bangladeshi,"9,986",39,30,43,3.9,,3.0,,4.3,
+E92000001,England ,Indian,"22,722",116,69,91,5.1,,3.0,,4.0,
+E92000001,England ,Pakistani,"26,745",157,115,175,5.8,,4.3,,6.5,
+E92000001,England ,Any other Asian background,"15,641",65,41,54,4.1,,2.6,,3.5,
+E92000001,England ,Black African,"20,733",146,100,142,7.0,,4.8,,6.8,
+E92000001,England ,Black Caribbean,"5,067",34,17,25,6.7,,3.4,[u],4.9,
+E92000001,England ,Any other Black background,"3,733",26,19,26,6.9,,5.1,[u],7.0,
+E92000001,England ,Mixed/ multiple,"42,155",181,102,144,4.3,,2.4,,3.4,
+E92000001,England ,Any Other ethnic group,"13,817",62,30,43,4.5,,2.2,,3.1,
+E92000001,England ,White British,"349,840","1,217",755,"1,035",3.5,,2.2,,3.0,
+E92000001,England ,White Other,"72,144",280,164,207,3.9,,2.3,,2.9,
+E92000001,England ,Not Stated,"12,717",111,103,127,8.7,,8.1,,10.0,
+E92000001,England ,Unlinked deaths,[z],[z],88,97,[z],,[z],,[z],
+W92000004,Wales,All,"28,765",126,76,103,4.4,,2.6,,3.6,
+W92000004,Wales,Bangladeshi,170,0,1,2,[x],[u],[x],[u],[x],[u]
+W92000004,Wales,Indian,172,0,1,1,[x],[u],[x],[u],[x],[u]
+W92000004,Wales,Pakistani,204,2,0,0,[x],[u],[x],[u],[x],[u]
+W92000004,Wales,Any other Asian background,275,3,0,0,10.8,[u],[x],[u],[x],[u]
+W92000004,Wales,Black African,244,2,3,4,[x],[u],12.3,[u],16.4,[u]
+W92000004,Wales,Black Caribbean,12,0,0,0,[x],[u],[x],[u],[x],[u]
+W92000004,Wales,Any other Black background,69,0,0,0,[x],[u],[x],[u],[x],[u]
+W92000004,Wales,Mixed/ multiple,771,7,2,2,9.0,[u],[x],[u],[x],[u]
+W92000004,Wales,Any Other ethnic group,339,1,1,3,[x],[u],[x],[u],8.8,[u]
+W92000004,Wales,White British,"17,495",73,35,52,4.2,,2.0,,3.0,
+W92000004,Wales,White Other,780,3,4,5,3.8,[u],5.1,[u],6.4,[u]
+W92000004,Wales,Not Stated,"8,234",35,28,33,4.2,,3.4,,4.0,
+W92000004,Wales,Unlinked deaths,[z],[z],1,1,[z],,[z],,[z],
+,,,,,,,,,,,,
